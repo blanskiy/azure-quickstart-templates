@@ -76,7 +76,7 @@
       ],
       "properties": {
         "hardwareProfile": {
-          "vmSize": "Standard_DS15_v2"
+          "vmSize": "Standard_D64_v3"
         },
         "osProfile": {
           "computerName": "[parameters('virtualMachineName')]",
