@@ -76,7 +76,7 @@
       ],
       "properties": {
         "hardwareProfile": {
-          "vmSize": "L48s v2"
+          "vmSize": "Standard_L48s_v2"
         },
         "osProfile": {
           "computerName": "[parameters('virtualMachineName')]",
